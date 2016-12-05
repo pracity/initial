@@ -3,3 +3,4 @@ target/
 .gradle/
 .mvn/
 .settings/
+src/main/resources/application.properties
